@@ -1,0 +1,6 @@
+{
+  "name": "BLOCKSHIELD",
+  "description": "Enterprise Blockchain-Based Platform for Identity, Access Control & Digital Asset Management for SIH 2026 (Team CureCoders • PS 26125)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
